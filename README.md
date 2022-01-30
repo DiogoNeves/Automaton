@@ -18,7 +18,7 @@ Results displayed include the full sequence of states and a plot of the number o
 Looking at 2 runs at random, with the current settings, the automaton seems to converge quickly, around the 10 iterations.  
 
 40 iterations | 8 iterations
-:------------:|:-------------|
+:------------:|:------------:
 ![](40-iterations.png) | ![](8-iterations.png)
 
 ### Disclaimers
