@@ -1,4 +1,5 @@
 """
+
 Implementation of a cellular automaton to generate a simple terrain-like structure, from noise.
 
 The implementation includes 3 main stages:
@@ -15,6 +16,7 @@ Some tests are provided in Replit.
 No attempts were made at optimising the code.
 
 This program intends to serve as a fun night of code and a framework to study the behaviour of simple CA.
+
 """
 
 from typing import Callable, List
