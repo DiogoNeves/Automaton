@@ -1,5 +1,7 @@
 # Simple Cellular Automaton
 
+![](result.gif)
+
 This repo includes an implementation of a cellular automaton to generate a simple terrain-like structure, from noise.  
 It was created as a fun night of code and intended to try out Replit, practice using numpy and learn more about CAs.  
 
