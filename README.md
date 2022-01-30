@@ -33,6 +33,7 @@ No attempts were made at optimising the code.
 
 * Experiment with stochastic implementations.  
 * Use a higher-level plotting library (matplotlib is messy IMO).  
+* Learn how to present simple projects beautifully.  
 
 ## Running
 
