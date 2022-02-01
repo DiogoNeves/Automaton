@@ -10,6 +10,8 @@ The implementation includes 3 main stages:
 This implementations keeps all the intermediate states so that they can be later displayed or analysed.
 Results displayed include the full sequence of states and a plot of the number of live cells over time.
 
+The sliding window uses Moore's Neighborhood https://en.wikipedia.org/wiki/Moore_neighborhood
+
 ---
 I tried to keep it short and simple too and hopefully most functions have self-evident intentions.
 Some tests are provided in Replit.
